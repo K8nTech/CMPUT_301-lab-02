@@ -17,6 +17,6 @@
 
 - https://developer.android.com/develop/ui/compose/layouts/basics
 
-https://kotlinlang.org/docs/null-safety.html)
+- https://kotlinlang.org/docs/null-safety.html)
 ## Verbal Collaboration
 N/A
