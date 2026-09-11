@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** KATELYN HO
+- **Full Name:** Katelyn Ho
 - **CCID:** kmho
 
 ## References and Resources
